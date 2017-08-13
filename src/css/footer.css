@@ -1,0 +1,22 @@
+footer {
+    padding: 1.5rem 3rem;
+}
+footer .row {
+    max-width: 100%;
+}
+footer .columns {
+    padding-left: 0;
+}
+footer .social {
+    text-align: right;	
+}
+footer .social svg {
+    height: 38px;
+    width: 38px;
+}
+footer p {
+    color: rgb(125, 136, 146);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 300;
+}
